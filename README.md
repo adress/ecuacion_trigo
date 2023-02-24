@@ -1,3 +1,3 @@
-# wolframExamples
+# WolframExamples
 
-Repositorios donde se solucionan problemas matemáticos por medio de `wolfram alpha`, puede navegar por las ramas de este repositorio para ver los difentesn problemas matemáticos.
+Repositorios donde se solucionan problemas matemáticos de diversos temas por medio de `wolfram alpha`.
