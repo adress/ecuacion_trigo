@@ -1,0 +1,1 @@
+## frecuencia natural circuito LC
